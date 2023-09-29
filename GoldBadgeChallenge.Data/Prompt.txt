@@ -1,0 +1,17 @@
+Each delivery will need (POCO): 
+
+The order date 
+The delivery date 
+The status of the order (Scheduled, EnRoute, Complete, or Canceled)
+The Item number
+The item quantity
+The customer ID (you can assume every customer has an account with a unique ID number of some kind)
+
+Repo type: List 
+
+You need to build an app that will (repo methods): 
+
+Add a new delivery to the history (Create)
+List all en route deliveries, and all completed deliveries (Read)
+Update the status of a delivery (Update)
+Cancel a delivery (Delete)
